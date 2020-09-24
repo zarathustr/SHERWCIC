@@ -7,4 +7,4 @@ Usage:
 2. Run the file 'test_continuous_hec_rw_cam_imu_optXW.m'.
 
 # Reference
-Wu, J., Wang, M., Jiang, Y., Yi, B., Liu, M. (2020) Simultaneous Hand-eye/Robot-World/Camera-IMU Calibration. Submitted to IEEE Transactions on Automation Science and Engineering.
+Wu, J., Wang, M., Jiang, Y., Yi, B., Liu, M. (2020) Simultaneous Hand-eye/Robot-World/Camera-IMU Calibration. Submitted to IEEE/ASME Transactions on Mechatronics.
