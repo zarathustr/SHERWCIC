@@ -15,4 +15,4 @@ Usage:
 
 
 # Reference
-Wu, J., Wang, M., Jiang, Y., Yi, B., Liu, M. (2020) Simultaneous Hand-eye/Robot-World/Camera-IMU Calibration. Submitted to IEEE/ASME Transactions on Mechatronics.
+Wu, J., Wang, M., Jiang, Y., Yi, B., Liu, M. (2020) Simultaneous Hand-eye/Robot-World/Camera-IMU Calibration. IEEE/ASME Transactions on Mechatronics. https://doi.org/10.1109/TMECH.2021.3103995
